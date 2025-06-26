@@ -4,6 +4,7 @@
 css
 body {
   background-color: #f9f9f9;
+  color: #000000
   font-family: 'Segoe UI', sans-serif;
 }
 
@@ -12,7 +13,7 @@ body {
 }
 
 .navbar a {
-  color:rgb(0, 0, 0) !important;
+  color:rgb(242, 8, 8) !important;
 }
 
 h1, h2 {
