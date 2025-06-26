@@ -1,5 +1,22 @@
 ---
-title: "Kia EV9"
+title: "Comparison/Rankings"
 ---
 
-About this site
+This is a comparison/ranking
+
+My rankings: 
+
+    1. KIA EV9
+
+    2. Mercedes EQB 350 4MATIC SUV
+
+    3. Hyundai IONIQ 9
+
+
+Consumer rankings:
+
+    1. KIA EV9
+
+    2. Hyundai IONIQ 9
+
+    3. Mercedes EQB 350 4MATIC SUV
