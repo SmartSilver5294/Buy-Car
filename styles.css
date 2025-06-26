@@ -1,1 +1,24 @@
 /* css styles */
+ 
+
+css
+body {
+  background-color:#94c5f5;
+  color: #000000
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  background-color:#ffffff;
+  color: #000000
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar a {
+  color:rgb(0, 0, 0) !important;
+  font-weight: 500;
+}
+
+h1, h2 {
+  color:rgb(0, 0, 0);
+}

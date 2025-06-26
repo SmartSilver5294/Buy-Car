@@ -3,4 +3,19 @@ title: "Kia Specs"
 format: html
 ---
 
-fast
+**Price**: $67,940
+
+**Lease Price**: ~$540/mo for 36 months
+
+**Tax Incentives**: Qualifies for $7,500 of EV tax incentives and a few other incentives from KIA
+
+## Exterior:
+The Kia EV9 features a bold, modern design with a boxy SUV shape and futuristic touches. Its standout front includes vertical LED headlights and a unique "Digital Tiger Face," while sharp lines, flush door handles, and a tapered roofline give it a sleek, high-tech look. It is easily the best 7-seater EV on the market
+
+## Specs:
+
+1. 0-60 and Horsepower: The Kia EV9 has a 0-60 of 6.0 seconds and 379 hp
+
+2. Range and Charging: The Kia EV9 has ~275 miles of range and is compatible with Tesla DC superchargers
+
+3. Reliability: The Kia EV9 has been named 2024 North American Utility Vehicle of the Year and World Car of the Year, among others

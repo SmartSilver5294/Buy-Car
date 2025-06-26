@@ -10,21 +10,27 @@ website:
       - text: Mercedes EQB 350 4MATIC SUV
         menu:
           - href: specs-mercedes.qmd
-            text: EQB 350 Specs
+            text: EQB 350 Price/Specs
           - href: interior-mercedes
-            text: EQB 350 Interior
+            text: EQB 350 Interior/Features
+          - href: overall-mercedes.qmd
+            text: Overall
       - text: Kia EV9
         menu:
           - href: specs-kia.qmd
-            text: EV9 Specs
+            text: EV9 Price/Specs
           - href: interior-kia.qmd
-            text: EV9 Interior
+            text: EV9 Interior/Features
+          - href: overall-kia.qmd
+            text: Overall
       - text: Hyundai IONIQ 9
         menu: 
           - href: specs-hyundai
-            text: IONIQ 9 Specs
+            text: IONIQ 9 Price/Specs
           - href: interior-hyundai
-            text: IONIQ 9 Interior
+            text: IONIQ 9 Interior/Features
+          - href: overall-hyundai.qmd
+            text: Overall
       - about.qmd
 
           
