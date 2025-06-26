@@ -7,6 +7,13 @@
     "text": "The mercedes EQB is good"
   },
   {
+    "objectID": "specs-hyundai.html",
+    "href": "specs-hyundai.html",
+    "title": "Hyundai IONIQ 9 Specs",
+    "section": "",
+    "text": "Massive"
+  },
+  {
     "objectID": "interior-kia.html",
     "href": "interior-kia.html",
     "title": "Kia Interior",
@@ -16,9 +23,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Comparison",
+    "title": "Comparison/Rankings",
     "section": "",
-    "text": "About this site"
+    "text": "This is a comparison/ranking\nMy rankings: 1. KIA EV9 2. Mercedes EQB 350 4MATIC SUV 3. Hyundai IONIQ 9\nConsumer rankings: 1. KIA EV9 2. Hyundai IONIQ 9 3. Mercedes EQB 350 4MATIC SUV"
+  },
+  {
+    "objectID": "interior-hyundai.html",
+    "href": "interior-hyundai.html",
+    "title": "Hyundai IONIQ 9 Interior",
+    "section": "",
+    "text": "smooth, hi-tech"
   },
   {
     "objectID": "interior-mercedes.html",
