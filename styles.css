@@ -3,13 +3,14 @@
 
 css
 body {
-  background-color: #f9f9f9;
+  background-color:rgb(255, 255, 255);
   color: #000000
   font-family: 'Segoe UI', sans-serif;
 }
 
 .navbar {
   background-color: #1e1e2f;
+  color: #000000
 }
 
 .navbar a {
