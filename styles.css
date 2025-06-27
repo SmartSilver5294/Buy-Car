@@ -3,7 +3,7 @@
 
 css
 body {
-  background-color:#94c5f5;
+  background-color:#c5d8eab1;
   color: #000000
   font-family: 'Segoe UI', sans-serif;
 }
@@ -11,7 +11,7 @@ body {
 .navbar {
   background-color:#84b2f1;
   color: #000000
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
 }
 
 .navbar a {

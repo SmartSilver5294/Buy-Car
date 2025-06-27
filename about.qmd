@@ -4,7 +4,7 @@ title: "Comparison/Rankings"
 
 This is a comparison/ranking
 
-**My rankings (Best for *our* purposes):**
+## My rankings (Best for *our* purposes):
 
 1. KIA EV9 (Best performance and space with decent luxury and premium charging capabilities)
 
@@ -13,7 +13,7 @@ This is a comparison/ranking
 3. Hyundai IONIQ 9 (Longest range, wheelbase, and fast-charging)
 
 
-**Consumer rankings:**
+## Consumer rankings:
 
 1. KIA EV9 (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)
 

@@ -2,6 +2,8 @@
 title: "Car Shopping"
 ---
 
+<img src="images/EQB 350 front.jpg" alt="Merdeces" width="600" style="border-radius: 10px;">
+
 Look around and compare the cars.
 Link to Slideshow:
 
