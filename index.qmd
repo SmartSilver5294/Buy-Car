@@ -6,12 +6,11 @@ title: "Car Shopping"
 ::: {=html}
 
 <div class="carousel">
-  <img src="images/EQB-350-side-view.jpg" alt="Mercedes EQB 350" class="carousel-image">
-  <img src="images/kia-ev9-side.jpg" alt="Kia EV9" class="carousel-image">
-  <img src="images/ioniq-9-side.jpg" alt="Hyundai Ioniq 9" class="carousel-image">
+  <img src="images/lucid-air.jpg" alt="Lucid Air" class="carousel-image">
 </div>
 
 :::
+
 
 
 
