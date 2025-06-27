@@ -2,7 +2,11 @@
 title: "Car Shopping"
 ---
 
-![Test Image](images/test.jpg)
+<div class="carousel">
+  <div class="carousel-track">
+    <img src="images/test.jpg" alt="Test" class="carousel-image">
+  </div>
+</div>
 
 
 
