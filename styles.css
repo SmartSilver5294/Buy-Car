@@ -35,9 +35,11 @@ h1, h2 {
 
 .carousel-track {
   display: flex;
-  width: calc(200%); /* 6 images total (3 original + 3 duplicate) */
-  animation: scroll 15s linear infinite;
+  width: 600%;
+  animation: scroll 20s linear infinite;
+  min-height: 200px; /* ensures the container stays visible */
 }
+
 
 .carousel-image {
   flex: 0 0 100%;
