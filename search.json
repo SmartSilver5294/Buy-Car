@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Car Shopping",
     "section": "",
-    "text": "Link to Slideshow: https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p"
+    "text": "&lt;div class=\"carousel-track\"&gt;\n    &lt;img src=\"images/lucid-air.jpg\" alt=\"Lucid Air\" class=\"carousel-image\"&gt;\n\n\nLink to Slideshow: https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p"
   },
   {
     "objectID": "about.html",
