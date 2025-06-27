@@ -4,10 +4,11 @@ title: "Car Shopping"
 
 
 ::: {=html}
-<p style="color: red; font-size: 24px;">🚗 Hello from raw HTML!</p>
+<img src="images/kia-ev9-side.jpg" alt="Kia EV9" width="400">
 :::
 
-::: {=html}
+
+::: {.carousel-container}
 
 <div class="carousel">
   <div class="carousel-track">
@@ -19,5 +20,6 @@ title: "Car Shopping"
 
 :::
 
+
 Link to Slideshow:
-<https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.ge2e85277c2_0_3390#slide=id.ge2e85277c2_0_3390>
+<https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p>
