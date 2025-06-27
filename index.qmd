@@ -2,7 +2,10 @@
 title: "Car Shopping"
 ---
 
-<img src="images/EQB 350 front.jpg" alt="Merdeces" width="600" style="border-radius: 10px;">
+
+<img src="/c/Users/Student/projects/Buy-Car/images/EQB-350-front.jpg" alt="Mercedes SUV" width="100%" style="border-radius:10px; box-shadow:0px 4px 12px rgba(0,0,0,0.2);" />
+
+
 
 Look around and compare the cars.
 Link to Slideshow:
