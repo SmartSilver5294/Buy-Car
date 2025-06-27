@@ -25,16 +25,11 @@ h1, h2 {
 
 
 .carousel-container {
+  overflow: hidden;
   max-width: 900px;
   margin: 2rem auto;
-  overflow: hidden;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.carousel {
-  position: relative;
-  width: 100%;
 }
 
 .carousel-track {
@@ -45,9 +40,9 @@ h1, h2 {
 
 .carousel-image {
   width: 100%;
-  max-height: 400px;
-  object-fit: cover;
   flex-shrink: 0;
+  object-fit: cover;
+  max-height: 400px;
   margin-right: 1rem;
 }
 

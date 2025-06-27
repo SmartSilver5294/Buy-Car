@@ -4,19 +4,22 @@ title: "Car Shopping"
 
 
 ::: {=html}
+<img src="images/kia-ev9-side.jpg" alt="Kia EV9" width="400">
+<img src="images/EQB-350-side-view.jpg" alt="Mercedes EQB 350" width="400">
+<img src="images/ioniq-9-side.jpg" alt="Hyundai Ioniq 9" width="400">
+:::
+
+::: {=html}
 
 <div class="carousel-container">
-  <div class="carousel">
-    <div class="carousel-track">
-      <img src="images/EQB-350-side-view.jpg" alt="Mercedes EQB 350" class="carousel-image">
-      <img src="images/kia-ev9-side.jpg" alt="Kia EV9" class="carousel-image">
-      <img src="images/ioniq-9-side.jpg" alt="Hyundai Ioniq 9" class="carousel-image">
-    </div>
+  <div class="carousel-track">
+    <img src="images/EQB-350-side-view.jpg" alt="Mercedes EQB 350" class="carousel-image">
+    <img src="images/kia-ev9-side.jpg" alt="Kia EV9" class="carousel-image">
+    <img src="images/ioniq-9-side.jpg" alt="Hyundai Ioniq 9" class="carousel-image">
   </div>
 </div>
 
 :::
-
 
 
 
