@@ -25,21 +25,30 @@ h1, h2 {
 
 
 .carousel {
-  display: flex;
-  overflow-x: auto;
-  scroll-behavior: smooth;
+  overflow: hidden;
   max-width: 900px;
   margin: 2rem auto;
-  padding: 1rem 0;
-  gap: 1rem;
-  scroll-snap-type: x mandatory;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.carousel-track {
+  display: flex;
+  width: calc(300% + 2rem); /* 3 images + spacing */
+  animation: scroll 15s linear infinite;
 }
 
 .carousel-image {
-  flex: 0 0 auto;
-  width: 100%;
-  max-width: 300px;
+  flex: 0 0 100%;
+  max-width: 100%;
   object-fit: cover;
-  border-radius: 8px;
-  scroll-snap-align: start;
+  max-height: 400px;
+  margin-right: 1rem;
+}
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  33% { transform: translateX(-100%); }
+  66% { transform: translateX(-200%); }
+  100% { transform: translateX(0); }
 }
