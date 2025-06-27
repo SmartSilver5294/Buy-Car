@@ -25,32 +25,32 @@ h1, h2 {
 
 
 .carousel-container {
-  overflow: hidden;
-  width: 100%;
   max-width: 900px;
   margin: 2rem auto;
+  overflow: hidden;
   border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .carousel {
   position: relative;
   width: 100%;
-  height: auto;
 }
 
 .carousel-track {
   display: flex;
+  width: 300%;
   animation: scroll 15s linear infinite;
 }
 
 .carousel-image {
   width: 100%;
-  flex-shrink: 0;
-  object-fit: cover;
   max-height: 400px;
+  object-fit: cover;
+  flex-shrink: 0;
+  margin-right: 1rem;
 }
-  
+
 @keyframes scroll {
   0% { transform: translateX(0); }
   33% { transform: translateX(-100%); }
