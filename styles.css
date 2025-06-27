@@ -35,8 +35,8 @@ h1, h2 {
 
 .carousel-track {
   display: flex;
-  animation: scroll 10s linear infinite;
   width: max-content;
+  animation: scroll 20s linear infinite;
 }
 
 .carousel-image {
