@@ -3,16 +3,17 @@
 
 css
 body {
-  background-color:#c5d8eab1;
-  color: #000000
+  background-color: #c5d8eab1;
+  color: #000000;
   font-family: 'Segoe UI', sans-serif;
 }
 
 .navbar {
-  background-color:#84b2f1;
-  color: #000000
+  background-color: #84b2f1;
+  color: #000000;
   border-bottom: 2px solid #ddd;
 }
+
 
 .navbar a {
   color:rgb(0, 0, 0) !important;
