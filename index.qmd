@@ -1,18 +1,15 @@
 ---
 title: "Car Shopping"
+format:
+  html:
+    css: styles.css
 ---
 
+<div class="carousel-window">
 
-::: {=html}
+![](images/lucid-air.jpg){.carousel-image}
 
-<div class="carousel">
-  <img src="images/lucid-air.jpg" alt="Lucid Air" class="carousel-image">
 </div>
-
-:::
-
-
-
 
 Link to Slideshow:
 <https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p>

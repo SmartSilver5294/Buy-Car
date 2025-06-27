@@ -1,6 +1,9 @@
 project:
   type: website
 
+resources: 
+  - images/lucid-air.jpg
+
 website:
   title: "Car Shopping"
   navbar:

@@ -2,7 +2,7 @@
 title: "Comparison/Rankings"
 ---
 
-This is a comparison/ranking
+### This is a comparison/ranking
 
 ## My rankings (Best for *our* purposes):
 
