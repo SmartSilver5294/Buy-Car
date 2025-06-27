@@ -3,7 +3,14 @@ title: "Car Shopping"
 format: html
 ---
 
-<div>
-  <h2>This is a test</h2>
-  <img src="images/test.jpg" alt="Test Image" width="400" />
+::: {=html}
+
+<div class="carousel">
+  <div class="carousel-track">
+    <img src="images/EQB-350-side-view.jpg" alt="Mercedes EQB 350" class="carousel-image">
+    <img src="images/kia-ev9-side.jpg" alt="Kia EV9" class="carousel-image">
+    <img src="images/ioniq-9-side.jpg" alt="Hyundai Ioniq 9" class="carousel-image">
+  </div>
 </div>
+
+:::
