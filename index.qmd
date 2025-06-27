@@ -1,10 +1,6 @@
 ---
 title: "Car Shopping"
-format:
-  html:
-    html-math-method: mathjax
-    include-after-body: styles.css
-    allow-html: true
+
 ---
 
 
