@@ -1,6 +1,15 @@
 ---
-title: "Hyundai IONIQ 9 Interior"
+title: "Hyundai IONIQ 9 Interior/Featues"
 format: html
 ---
 
-smooth, hi-tech
+## Interior:
+
+**1.** 7-seater, with a large and decently spacious 3rd row
+
+**2.** Lesser luxury: Comes with a 12.3” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 6 USB ports located in the car, with a 14-speaker sound system
+
+**3.** 85.5 cu ft of trunkspace max with all seats folded, but only has 11.9 cu ft behind the 3rd row
+
+**4.** Has 10 Airbags, Blind-Spot View Monitor, Highway Driving Assist 2, Navigation-based Smart Cruise Control, Remote Smart Parking Assist, Collision-Avoidance Assist, Driver Attention Warning. It was the 2025 IIHS Top Safety Pick+.
+

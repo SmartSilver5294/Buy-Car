@@ -14,7 +14,7 @@ website:
         menu:
           - href: specs-mercedes.qmd
             text: EQB 350 Price/Specs
-          - href: interior-mercedes
+          - href: interior-mercedes.qmd
             text: EQB 350 Interior/Features
           - href: overall-mercedes.qmd
             text: Overall
@@ -28,9 +28,9 @@ website:
             text: Overall
       - text: Hyundai IONIQ 9
         menu: 
-          - href: specs-hyundai
+          - href: specs-hyundai.qmd
             text: IONIQ 9 Price/Specs
-          - href: interior-hyundai
+          - href: interior-hyundai.qmd
             text: IONIQ 9 Interior/Features
           - href: overall-hyundai.qmd
             text: Overall

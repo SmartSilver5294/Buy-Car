@@ -1,6 +1,14 @@
 ---
-title: "Kia Interior"
+title: "Kia EV9 Interior/Features"
 format: html
 ---
 
-cool
+## Interior:
+
+**1.** 7-seater, with a large, luxurious, and spacious 3rd row
+
+**2.** Decently luxurious: Comes with  Standard wireless Apple CarPlay and Android Auto, multiple USB-C ports, Wi‑Fi hotspot, and Bluetooth. It also has a 14-speaker audio system and ambient lighting all around
+
+**3.** 82 cu ft of trunkspace max with all seats folded, and a decent 20.2 cu ft behind the 3rd row
+
+**4.** Is 2025 IIHS Top Safety Pick+, and has 5‑star Euro NCAP and ANCAP 5‑star ratings. It was praised for it’s lane keeping technologies and blind spot/safe exit warning assists.
