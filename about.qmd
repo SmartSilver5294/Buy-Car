@@ -4,28 +4,67 @@ title: "Comparison/Rankings"
 
 ### This is a comparison/ranking
 
+
+<div class="comparison-table">
+  <table>
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>Range (mi)</th>
+        <th>Top Speed (mph)</th>
+        <th>0–60 mph</th>
+        <th>Price (USD)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mercedes EQB 350 4MATIC SUV</td>
+        <td>207</td>
+        <td>99</td>
+        <td>5.8 sec</td>
+        <td>$66,520</td>
+      </tr>
+      <tr>
+        <td>Kia EV9</td>
+        <td>275</td>
+        <td>124</td>
+        <td>5.2 sec</td>
+        <td>$67,940</td>
+      </tr>
+      <tr>
+        <td>Hyundai IONIQ 9</td>
+        <td>320</td>
+        <td>117</td>
+        <td>6.2 sec</td>
+        <td>$64,600</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 ## My rankings (Best for *our* purposes):
 
-1. **KIA EV9:** (Best performance and space with decent luxury and premium charging capabilities)
+**1. KIA EV9:** (Best performance and space with decent luxury and premium charging capabilities)
 
-2. **Mercedes EQB 350 4MATIC SUV:** (Brand name, luxury, and premium features)
+**2. Mercedes EQB 350 4MATIC SUV:** (Brand name, luxury, and premium features)
 
-3. **Hyundai IONIQ 9:** (Longest range, wheelbase, and fast-charging)
+**3. Hyundai IONIQ 9:** (Longest range, wheelbase, and fast-charging)
 
 
 ## Consumer rankings:
 
-1. **Kia EV9:** (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)
+**1. Kia EV9:** (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)
 
-2. **Hyundai IONIQ 9:** (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)
+**2. Hyundai IONIQ 9:** (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)
 
-3. **Mercedes EQB 350 4MATIC SUV:** (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)
+**3. Mercedes EQB 350 4MATIC SUV:** (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)
 
 
 ## Speculated Rankings after 2026-2027 Updates (Subject to change)
 
-1. **Mercedes EQB 350 4MATIC SUV:** Much better overall luxury, range, and charging. It is part of Mercedes' biggest rehaul ever.
+**1. Mercedes EQB 350 4MATIC SUV:** Much better overall luxury, range, and charging. It is part of Mercedes' biggest rehaul ever.
 
-2. **Kia EV9:** Gets a few slight updates to range and power, but nothing extra.
+**2. Kia EV9:** Gets a few slight updates to range and power, but nothing extra.
 
-3. **Hyundai IONIQ 9:** No speculated updates for now.
+**3. Hyundai IONIQ 9:** No speculated updates for now.
