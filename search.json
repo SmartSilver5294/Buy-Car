@@ -32,7 +32,7 @@
     "href": "specs-kia.html#specs",
     "title": "Kia Specs",
     "section": "Specs:",
-    "text": "Specs:\n\n0-60 and Horsepower: The Kia EV9 has a 0-60 of 6.0 seconds and 379 hp\nRange and Charging: The Kia EV9 has ~275 miles of range and is compatible with Tesla DC superchargers\nReliability: The Kia EV9 has been named 2024 North American Utility Vehicle of the Year and World Car of the Year, among others"
+    "text": "Specs:\n1. 0-60 and Horsepower: The Kia EV9 has a 0-60 of 6.0 seconds and 379 hp\n2. Range and Charging: The Kia EV9 has ~275 miles of range and is compatible with Tesla DC superchargers\n3. Reliability: The Kia EV9 has been named 2024 North American Utility Vehicle of the Year and World Car of the Year, among others"
   },
   {
     "objectID": "overall-mercedes.html",
@@ -74,28 +74,35 @@
     "href": "index.html",
     "title": "Car Shopping",
     "section": "",
-    "text": "Link to Neat and Colorful Slideshow: https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p"
+    "text": "View Slideshow"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Comparison/Rankings",
+    "section": "",
+    "text": "Model\n\n\nRange (mi)\n\n\nTop Speed (mph)\n\n\n0–60 mph\n\n\nPrice (USD)\n\n\n\n\n\n\nMercedes EQB 350 4MATIC SUV\n\n\n207\n\n\n99\n\n\n5.8 sec\n\n\n$66,520\n\n\n\n\nKia EV9\n\n\n275\n\n\n124\n\n\n5.2 sec\n\n\n$67,940\n\n\n\n\nHyundai IONIQ 9\n\n\n320\n\n\n117\n\n\n6.2 sec\n\n\n$64,600"
   },
   {
     "objectID": "about.html#my-rankings-best-for-our-purposes",
     "href": "about.html#my-rankings-best-for-our-purposes",
     "title": "Comparison/Rankings",
     "section": "My rankings (Best for our purposes):",
-    "text": "My rankings (Best for our purposes):\n\nKIA EV9: (Best performance and space with decent luxury and premium charging capabilities)\nMercedes EQB 350 4MATIC SUV: (Brand name, luxury, and premium features)\nHyundai IONIQ 9: (Longest range, wheelbase, and fast-charging)"
+    "text": "My rankings (Best for our purposes):\n1. KIA EV9: (Best performance and space with decent luxury and premium charging capabilities)\n2. Mercedes EQB 350 4MATIC SUV: (Brand name, luxury, and premium features)\n3. Hyundai IONIQ 9: (Longest range, wheelbase, and fast-charging)"
   },
   {
     "objectID": "about.html#consumer-rankings",
     "href": "about.html#consumer-rankings",
     "title": "Comparison/Rankings",
     "section": "Consumer rankings:",
-    "text": "Consumer rankings:\n\nKia EV9: (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)\nHyundai IONIQ 9: (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)\nMercedes EQB 350 4MATIC SUV: (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)"
+    "text": "Consumer rankings:\n1. Kia EV9: (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)\n2. Hyundai IONIQ 9: (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)\n3. Mercedes EQB 350 4MATIC SUV: (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)"
   },
   {
     "objectID": "about.html#speculated-rankings-after-2026-2027-updates-subject-to-change",
     "href": "about.html#speculated-rankings-after-2026-2027-updates-subject-to-change",
     "title": "Comparison/Rankings",
     "section": "Speculated Rankings after 2026-2027 Updates (Subject to change)",
-    "text": "Speculated Rankings after 2026-2027 Updates (Subject to change)\n\nMercedes EQB 350 4MATIC SUV: Much better overall luxury, range, and charging. It is part of Mercedes’ biggest rehaul ever.\nKia EV9: Gets a few slight updates to range and power, but nothing extra.\nHyundai IONIQ 9: No speculated updates for now."
+    "text": "Speculated Rankings after 2026-2027 Updates (Subject to change)\n1. Mercedes EQB 350 4MATIC SUV: Much better overall luxury, range, and charging. It is part of Mercedes’ biggest rehaul ever.\n2. Kia EV9: Gets a few slight updates to range and power, but nothing extra.\n3. Hyundai IONIQ 9: No speculated updates for now."
   },
   {
     "objectID": "html-test.html",
@@ -172,7 +179,7 @@
     "href": "specs-hyundai.html#specs",
     "title": "Hyundai IONIQ 9 Specs",
     "section": "Specs:",
-    "text": "Specs:\n\n0-60 and Horsepower: The Hyundai IONIQ 9 has a 0-60 of 6.2 seconds and 303 hp\nRange and Charging: The IONIQ 9 has ~320 miles of range and is compatible with Tesla DC superchargers\nReliability: The Hyundai IONIQ 9 has won the Favorite Plug-in EV – Awarded by the Midwest Automotive Media Association. Best Seven-Seat EV – Crowned by Top Gear. Red Dot Award: Global Product Design 2025"
+    "text": "Specs:\n1. 0-60 and Horsepower: The Hyundai IONIQ 9 has a 0-60 of 6.2 seconds and 303 hp\n2. Range and Charging: The IONIQ 9 has ~320 miles of range and is compatible with Tesla DC superchargers\n3. Reliability: The Hyundai IONIQ 9 has won the Favorite Plug-in EV – Awarded by the Midwest Automotive Media Association. Best Seven-Seat EV – Crowned by Top Gear. Red Dot Award: Global Product Design 2025"
   },
   {
     "objectID": "specs-mercedes.html",
@@ -193,7 +200,7 @@
     "href": "specs-mercedes.html#specs",
     "title": "Mercedes EQB Specs",
     "section": "Specs:",
-    "text": "Specs:\n\n0-60 and Horsepower: The Mercedes EQB 350 4MATIC SUV has a 0-60 of 5.8 seconds and 288 hp\nRange and Charging: Has ~207 miles of range and is compatible with Tesla DC superchargers\nReliability: The EQB has received positive feedback for its fit and finish, and the 2025 model has no reported recalls from the NHTSA"
+    "text": "Specs:\n1. 0-60 and Horsepower: The Mercedes EQB 350 4MATIC SUV has a 0-60 of 5.8 seconds and 288 hp\n2. Range and Charging: Has ~207 miles of range and is compatible with Tesla DC superchargers\n3. Reliability: The EQB has received positive feedback for its fit and finish, and the 2025 model has no reported recalls from the NHTSA"
   },
   {
     "objectID": "updates-2026-kia.html",
