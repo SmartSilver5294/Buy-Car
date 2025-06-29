@@ -1,129 +1,52 @@
 [
   {
-    "objectID": "specs-mercedes.html",
-    "href": "specs-mercedes.html",
-    "title": "Mercedes EQB Specs",
+    "objectID": "updates-2026-mercedes.html",
+    "href": "updates-2026-mercedes.html",
+    "title": "Speculated Updates for the 2026-2027 production year",
     "section": "",
-    "text": "Price: $66,520\nLease Price: ~$520/mo for 36 months\nTax Incentives: Qualifies for $7,500 of EV tax incentives"
+    "text": "Mercedes EQB 350 4MATIC SUV: Renamed to the GLB Electric, it is expected to have an new MBUX superscreen and AI powered user assistant, MB.OS (Mercedes-Benz Operating System), a new range of 305 miles, much faster 320 volt charging, and retractable door handles. These changes will bring the Mercedes all the way to the top of the list."
   },
   {
-    "objectID": "specs-mercedes.html#exterior",
-    "href": "specs-mercedes.html#exterior",
-    "title": "Mercedes EQB Specs",
+    "objectID": "updates-2026-hyundai.html",
+    "href": "updates-2026-hyundai.html",
+    "title": "Speculated Updates for the 2026-2027 production year",
+    "section": "",
+    "text": "Hyundai IONIQ 9: No speculated updates for 2026-2027"
+  },
+  {
+    "objectID": "specs-kia.html",
+    "href": "specs-kia.html",
+    "title": "Kia Specs",
+    "section": "",
+    "text": "Price: $67,940\nLease Price: ~$540/mo for 36 months\nTax Incentives: Qualifies for $7,500 of EV tax incentives and a few other incentives from KIA"
+  },
+  {
+    "objectID": "specs-kia.html#exterior",
+    "href": "specs-kia.html#exterior",
+    "title": "Kia Specs",
     "section": "Exterior:",
-    "text": "Exterior:\nThe Mercedes‑EQB 350 4MATIC has a boxy, modern look with smooth lines and a strong SUV shape. The front features a closed-off grille, sleek LED headlights, and a light bar that gives it a high-tech feel. From the side, it has a sporty profile with bold wheels and a smooth roofline. At the back, the light bar continues across the rear, adding to its stylish and futuristic design."
+    "text": "Exterior:\nThe Kia EV9 features a bold, modern design with a boxy SUV shape and futuristic touches. Its standout front includes vertical LED headlights and a unique “Digital Tiger Face,” while sharp lines, flush door handles, and a tapered roofline give it a sleek, high-tech look. It is easily the best 7-seater EV on the market"
   },
   {
-    "objectID": "specs-mercedes.html#specs",
-    "href": "specs-mercedes.html#specs",
-    "title": "Mercedes EQB Specs",
+    "objectID": "specs-kia.html#specs",
+    "href": "specs-kia.html#specs",
+    "title": "Kia Specs",
     "section": "Specs:",
-    "text": "Specs:\n\n0-60 and Horsepower: The Mercedes EQB 350 4MATIC SUV has a 0-60 of 5.8 seconds and 288 hp\nRange and Charging: Has ~207 miles of range and is compatible with Tesla DC superchargers\nReliability: The EQB has received positive feedback for its fit and finish, and the 2025 model has no reported recalls from the NHTSA"
+    "text": "Specs:\n\n0-60 and Horsepower: The Kia EV9 has a 0-60 of 6.0 seconds and 379 hp\nRange and Charging: The Kia EV9 has ~275 miles of range and is compatible with Tesla DC superchargers\nReliability: The Kia EV9 has been named 2024 North American Utility Vehicle of the Year and World Car of the Year, among others"
   },
   {
-    "objectID": "specs-hyundai.html",
-    "href": "specs-hyundai.html",
-    "title": "Hyundai IONIQ 9 Specs",
+    "objectID": "overall-mercedes.html",
+    "href": "overall-mercedes.html",
+    "title": "Mercedes EQB 350 4MATIC SUV Overall Review",
     "section": "",
-    "text": "Price: $64,600\nLease Price: ~$450/mo for 36 months\nTax Incentives: Qualifies for $13,000 of EV tax incentives"
+    "text": "The Mercedes EQB 350 4MATIC is a stylish, all-electric SUV that offers quick performance, a tech-rich interior, and seating for up to seven. With strong safety features and ample cargo space, it’s a practical and premium choice for families. It also comes with a famous and respected name behind it, with the iconic Mercedes star as well."
   },
   {
-    "objectID": "specs-hyundai.html#exterior",
-    "href": "specs-hyundai.html#exterior",
-    "title": "Hyundai IONIQ 9 Specs",
-    "section": "Exterior:",
-    "text": "Exterior:\nThe IONIQ 9 exterior masterfully blends aerodynamic efficiency with design artistry. Its dynamic “boat‑tail” silhouette, signature pixel lighting, sculptural side accents, and clean, futuristic detailing make it a standout in the large‑SUV EV segment."
-  },
-  {
-    "objectID": "specs-hyundai.html#specs",
-    "href": "specs-hyundai.html#specs",
-    "title": "Hyundai IONIQ 9 Specs",
-    "section": "Specs:",
-    "text": "Specs:\n\n0-60 and Horsepower: The Hyundai IONIQ 9 has a 0-60 of 6.2 seconds and 303 hp\nRange and Charging: The IONIQ 9 has ~320 miles of range and is compatible with Tesla DC superchargers\nReliability: The Hyundai IONIQ 9 has won the Favorite Plug-in EV – Awarded by the Midwest Automotive Media Association. Best Seven-Seat EV – Crowned by Top Gear. Red Dot Award: Global Product Design 2025"
-  },
-  {
-    "objectID": "overall-kia.html",
-    "href": "overall-kia.html",
-    "title": "Kia EV9 Overall Review",
+    "objectID": "overall-hyundai.html",
+    "href": "overall-hyundai.html",
+    "title": "Hyundai IONIQ 9 Overall Review",
     "section": "",
-    "text": "The Kia EV9 is a bold, all-electric three-row SUV with up to 304 miles of range, seating for 6 or 7, and loads of tech like a 30” digital cockpit, fast charging, and lounge-style seats. It’s quick, spacious, and packed with safety features—perfect for families who want futuristic style and everyday practicality."
-  },
-  {
-    "objectID": "interior-mercedes.html",
-    "href": "interior-mercedes.html",
-    "title": "Mercedes EQB 350 Interior/Features",
-    "section": "",
-    "text": "1. 7-seater, but a small 3rd row\n2. Lots of luxury: Comes with 2 10.5” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 4 USB ports located in the car, with a 10-speaker sound system\n3. 61.8 cu ft of trunkspace max with everything folded, but a puny 10.8 cu ft of space behind the 3rd row\n4. Has auto emergency braking, Blind Spot & Exit Warning, Lane Assist Suite, Adaptive Cruise Control, Parking Systems, 7 Airbags, and 5‑star NHTSA and Euro NCAP ratings for safety"
-  },
-  {
-    "objectID": "interior-mercedes.html#interior",
-    "href": "interior-mercedes.html#interior",
-    "title": "Mercedes EQB 350 Interior/Features",
-    "section": "",
-    "text": "1. 7-seater, but a small 3rd row\n2. Lots of luxury: Comes with 2 10.5” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 4 USB ports located in the car, with a 10-speaker sound system\n3. 61.8 cu ft of trunkspace max with everything folded, but a puny 10.8 cu ft of space behind the 3rd row\n4. Has auto emergency braking, Blind Spot & Exit Warning, Lane Assist Suite, Adaptive Cruise Control, Parking Systems, 7 Airbags, and 5‑star NHTSA and Euro NCAP ratings for safety"
-  },
-  {
-    "objectID": "interior-mercedes.html#features",
-    "href": "interior-mercedes.html#features",
-    "title": "Mercedes EQB 350 Interior/Features",
-    "section": "Features:",
-    "text": "Features:\n1. Panoramic Sunroof: The Mercedes comes with a full panoramic sunroof\n2. MBUX: The Mercedes EQB 350 comes with a hands-free user assistant, the Mercedes-Benz User Experience (MBUX)\n3. Hands-free Tailgate: The EQB 350 can open its trunk without you touching it or swinging your leg, just have your keys\n4. Noise Dampening: The Mercedes EQB 350 has one of the quietest cabins for a cheaper, mid-sized EV\n5. Active Suspension: The Mercedes EQB 350 has a very smooth ride thanks to its active damping and suspension\n6. Mercedes App: You can use the Mercedes App for a hands-free key, climate control, and remote start from outside the car"
-  },
-  {
-    "objectID": "interior-hyundai.html",
-    "href": "interior-hyundai.html",
-    "title": "Hyundai IONIQ 9 Interior/Featues",
-    "section": "",
-    "text": "1. 7-seater, with a large and decently spacious 3rd row\n2. Lesser luxury: Comes with a 12.3” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 6 USB ports located in the car, with a 14-speaker sound system\n3. 85.5 cu ft of trunkspace max with all seats folded, but only has 11.9 cu ft behind the 3rd row\n4. Has 10 Airbags, Blind-Spot View Monitor, Highway Driving Assist 2, Navigation-based Smart Cruise Control, Remote Smart Parking Assist, Collision-Avoidance Assist, Driver Attention Warning. It was the 2025 IIHS Top Safety Pick+."
-  },
-  {
-    "objectID": "interior-hyundai.html#interior",
-    "href": "interior-hyundai.html#interior",
-    "title": "Hyundai IONIQ 9 Interior/Featues",
-    "section": "",
-    "text": "1. 7-seater, with a large and decently spacious 3rd row\n2. Lesser luxury: Comes with a 12.3” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 6 USB ports located in the car, with a 14-speaker sound system\n3. 85.5 cu ft of trunkspace max with all seats folded, but only has 11.9 cu ft behind the 3rd row\n4. Has 10 Airbags, Blind-Spot View Monitor, Highway Driving Assist 2, Navigation-based Smart Cruise Control, Remote Smart Parking Assist, Collision-Avoidance Assist, Driver Attention Warning. It was the 2025 IIHS Top Safety Pick+."
-  },
-  {
-    "objectID": "interior-hyundai.html#features",
-    "href": "interior-hyundai.html#features",
-    "title": "Hyundai IONIQ 9 Interior/Featues",
-    "section": "Features:",
-    "text": "Features:\n1. Panoramic Sunroof: The Hyundai IONIQ 9 comes with a full panoramic sunroof\n2. Frunk Storage: The Hyundai IONIQ 9 comes with a frunk for small luggage\n3. Hands-free Tailgate: The IONIQ 9 can open its trunk without you touching it just by swinging your leg underneath\n4. Comfort: Dynamic Touch Massage Seats: Available in the first and second rows, with powered seats.\n5. Universal Island Console: Slides back and forth with dual storage and a UV-C sterilizer for your phone or wallet.\n6. Keyless Entry: You can use your phone for a hands-free key and engine control from outside the car"
-  },
-  {
-    "objectID": "html-test.html",
-    "href": "html-test.html",
-    "title": "HTML Test",
-    "section": "",
-    "text": "This is a test"
-  },
-  {
-    "objectID": "about.html#my-rankings-best-for-our-purposes",
-    "href": "about.html#my-rankings-best-for-our-purposes",
-    "title": "Comparison/Rankings",
-    "section": "My rankings (Best for our purposes):",
-    "text": "My rankings (Best for our purposes):\n\nKIA EV9: (Best performance and space with decent luxury and premium charging capabilities)\nMercedes EQB 350 4MATIC SUV: (Brand name, luxury, and premium features)\nHyundai IONIQ 9: (Longest range, wheelbase, and fast-charging)"
-  },
-  {
-    "objectID": "about.html#consumer-rankings",
-    "href": "about.html#consumer-rankings",
-    "title": "Comparison/Rankings",
-    "section": "Consumer rankings:",
-    "text": "Consumer rankings:\n\nKia EV9: (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)\nHyundai IONIQ 9: (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)\nMercedes EQB 350 4MATIC SUV: (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)"
-  },
-  {
-    "objectID": "about.html#speculated-updates-and-rankings-after-updates-subject-to-change",
-    "href": "about.html#speculated-updates-and-rankings-after-updates-subject-to-change",
-    "title": "Comparison/Rankings",
-    "section": "Speculated Updates and Rankings after Updates (Subject to change)",
-    "text": "Speculated Updates and Rankings after Updates (Subject to change)\n\nMercedes EQB 350 4MATIC SUV: Renamed to the GLB Electric, it is expected to have an new MBUX superscreen and AI powered user assistant, MB.OS (Mercedes-Benz Operating System), a new range of 305 miles, a frunk, much faster 320 volt charging, and retractable door handles. These changes will bring the Mercedes all the way to the top of the list.\nKia EV9: is expected to have slight upgrades to range, steering response, and acceleration, but nothing major.\nHyundai IONIQ 9: No speculated updates for now"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Car Shopping",
-    "section": "",
-    "text": "Link to Neat and Colorful Slideshow: https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p"
+    "text": "The Hyundai Ioniq 9 is a sleek, all-electric three-row SUV offering up to 335 miles of range, seating for 6 or 7, and a lounge-like interior packed with tech. It features dual 12.3” displays, massage seats, fast charging, and a quiet, refined ride. With bold styling, advanced safety, and family-friendly practicality, it’s Hyundai’s most luxurious EV yet."
   },
   {
     "objectID": "interior-kia.html",
@@ -147,38 +70,136 @@
     "text": "Features:\n1. Panoramic Sunroof: The Kia EV9 comes with a full panoramic sunroof\n2. Frunk Storage: The Kia EV9 comes with a frunk for small luggage\n3. Hands-free Tailgate: The Kia EV9 can open its trunk without you touching it just by swinging your leg underneath\n4. Comfort: The Kia EV9 has power-adjusted heated/cooled seats front and rear, and built-in footrests/relaxation mode\n5. Rear Seat Entertainment: The Kia EV9 can be equipped with screens in the back for children’s entertainment\n6. Keyless Entry: You can use your phone for a hands-free key and engine control from outside the car"
   },
   {
-    "objectID": "overall-hyundai.html",
-    "href": "overall-hyundai.html",
-    "title": "Hyundai IONIQ 9 Overall Review",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Car Shopping",
     "section": "",
-    "text": "The Hyundai Ioniq 9 is a sleek, all-electric three-row SUV offering up to 335 miles of range, seating for 6 or 7, and a lounge-like interior packed with tech. It features dual 12.3” displays, massage seats, fast charging, and a quiet, refined ride. With bold styling, advanced safety, and family-friendly practicality, it’s Hyundai’s most luxurious EV yet."
+    "text": "Link to Neat and Colorful Slideshow: https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p"
   },
   {
-    "objectID": "overall-mercedes.html",
-    "href": "overall-mercedes.html",
-    "title": "Mercedes EQB 350 4MATIC SUV Overall Review",
-    "section": "",
-    "text": "The Mercedes EQB 350 4MATIC is a stylish, all-electric SUV that offers quick performance, a tech-rich interior, and seating for up to seven. With strong safety features and ample cargo space, it’s a practical and premium choice for families. It also comes with a famous and respected name behind it, with the iconic Mercedes star as well."
+    "objectID": "about.html#my-rankings-best-for-our-purposes",
+    "href": "about.html#my-rankings-best-for-our-purposes",
+    "title": "Comparison/Rankings",
+    "section": "My rankings (Best for our purposes):",
+    "text": "My rankings (Best for our purposes):\n\nKIA EV9: (Best performance and space with decent luxury and premium charging capabilities)\nMercedes EQB 350 4MATIC SUV: (Brand name, luxury, and premium features)\nHyundai IONIQ 9: (Longest range, wheelbase, and fast-charging)"
   },
   {
-    "objectID": "specs-kia.html",
-    "href": "specs-kia.html",
-    "title": "Kia Specs",
-    "section": "",
-    "text": "Price: $67,940\nLease Price: ~$540/mo for 36 months\nTax Incentives: Qualifies for $7,500 of EV tax incentives and a few other incentives from KIA"
+    "objectID": "about.html#consumer-rankings",
+    "href": "about.html#consumer-rankings",
+    "title": "Comparison/Rankings",
+    "section": "Consumer rankings:",
+    "text": "Consumer rankings:\n\nKia EV9: (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)\nHyundai IONIQ 9: (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)\nMercedes EQB 350 4MATIC SUV: (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)"
   },
   {
-    "objectID": "specs-kia.html#exterior",
-    "href": "specs-kia.html#exterior",
-    "title": "Kia Specs",
+    "objectID": "about.html#speculated-rankings-after-2026-2027-updates-subject-to-change",
+    "href": "about.html#speculated-rankings-after-2026-2027-updates-subject-to-change",
+    "title": "Comparison/Rankings",
+    "section": "Speculated Rankings after 2026-2027 Updates (Subject to change)",
+    "text": "Speculated Rankings after 2026-2027 Updates (Subject to change)\n\nMercedes EQB 350 4MATIC SUV: Much better overall luxury, range, and charging. It is part of Mercedes’ biggest rehaul ever.\nKia EV9: Gets a few slight updates to range and power, but nothing extra.\nHyundai IONIQ 9: No speculated updates for now."
+  },
+  {
+    "objectID": "html-test.html",
+    "href": "html-test.html",
+    "title": "HTML Test",
+    "section": "",
+    "text": "This is a test"
+  },
+  {
+    "objectID": "interior-hyundai.html",
+    "href": "interior-hyundai.html",
+    "title": "Hyundai IONIQ 9 Interior/Featues",
+    "section": "",
+    "text": "1. 7-seater, with a large and decently spacious 3rd row\n2. Lesser luxury: Comes with a 12.3” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 6 USB ports located in the car, with a 14-speaker sound system\n3. 85.5 cu ft of trunkspace max with all seats folded, but only has 11.9 cu ft behind the 3rd row\n4. Has 10 Airbags, Blind-Spot View Monitor, Highway Driving Assist 2, Navigation-based Smart Cruise Control, Remote Smart Parking Assist, Collision-Avoidance Assist, Driver Attention Warning. It was the 2025 IIHS Top Safety Pick+."
+  },
+  {
+    "objectID": "interior-hyundai.html#interior",
+    "href": "interior-hyundai.html#interior",
+    "title": "Hyundai IONIQ 9 Interior/Featues",
+    "section": "",
+    "text": "1. 7-seater, with a large and decently spacious 3rd row\n2. Lesser luxury: Comes with a 12.3” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 6 USB ports located in the car, with a 14-speaker sound system\n3. 85.5 cu ft of trunkspace max with all seats folded, but only has 11.9 cu ft behind the 3rd row\n4. Has 10 Airbags, Blind-Spot View Monitor, Highway Driving Assist 2, Navigation-based Smart Cruise Control, Remote Smart Parking Assist, Collision-Avoidance Assist, Driver Attention Warning. It was the 2025 IIHS Top Safety Pick+."
+  },
+  {
+    "objectID": "interior-hyundai.html#features",
+    "href": "interior-hyundai.html#features",
+    "title": "Hyundai IONIQ 9 Interior/Featues",
+    "section": "Features:",
+    "text": "Features:\n1. Panoramic Sunroof: The Hyundai IONIQ 9 comes with a full panoramic sunroof\n2. Frunk Storage: The Hyundai IONIQ 9 comes with a frunk for small luggage\n3. Hands-free Tailgate: The IONIQ 9 can open its trunk without you touching it just by swinging your leg underneath\n4. Comfort: Dynamic Touch Massage Seats: Available in the first and second rows, with powered seats.\n5. Universal Island Console: Slides back and forth with dual storage and a UV-C sterilizer for your phone or wallet.\n6. Keyless Entry: You can use your phone for a hands-free key and engine control from outside the car"
+  },
+  {
+    "objectID": "interior-mercedes.html",
+    "href": "interior-mercedes.html",
+    "title": "Mercedes EQB 350 Interior/Features",
+    "section": "",
+    "text": "1. 7-seater, but a small 3rd row\n2. Lots of luxury: Comes with 2 10.5” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 4 USB ports located in the car, with a 10-speaker sound system\n3. 61.8 cu ft of trunkspace max with everything folded, but a puny 10.8 cu ft of space behind the 3rd row\n4. Has auto emergency braking, Blind Spot & Exit Warning, Lane Assist Suite, Adaptive Cruise Control, Parking Systems, 7 Airbags, and 5‑star NHTSA and Euro NCAP ratings for safety"
+  },
+  {
+    "objectID": "interior-mercedes.html#interior",
+    "href": "interior-mercedes.html#interior",
+    "title": "Mercedes EQB 350 Interior/Features",
+    "section": "",
+    "text": "1. 7-seater, but a small 3rd row\n2. Lots of luxury: Comes with 2 10.5” touchscreens for navigation with Android Auto and Apple Carplay. There is ambient lighting all around and 4 USB ports located in the car, with a 10-speaker sound system\n3. 61.8 cu ft of trunkspace max with everything folded, but a puny 10.8 cu ft of space behind the 3rd row\n4. Has auto emergency braking, Blind Spot & Exit Warning, Lane Assist Suite, Adaptive Cruise Control, Parking Systems, 7 Airbags, and 5‑star NHTSA and Euro NCAP ratings for safety"
+  },
+  {
+    "objectID": "interior-mercedes.html#features",
+    "href": "interior-mercedes.html#features",
+    "title": "Mercedes EQB 350 Interior/Features",
+    "section": "Features:",
+    "text": "Features:\n1. Panoramic Sunroof: The Mercedes comes with a full panoramic sunroof\n2. MBUX: The Mercedes EQB 350 comes with a hands-free user assistant, the Mercedes-Benz User Experience (MBUX)\n3. Hands-free Tailgate: The EQB 350 can open its trunk without you touching it or swinging your leg, just have your keys\n4. Noise Dampening: The Mercedes EQB 350 has one of the quietest cabins for a cheaper, mid-sized EV\n5. Active Suspension: The Mercedes EQB 350 has a very smooth ride thanks to its active damping and suspension\n6. Mercedes App: You can use the Mercedes App for a hands-free key, climate control, and remote start from outside the car"
+  },
+  {
+    "objectID": "overall-kia.html",
+    "href": "overall-kia.html",
+    "title": "Kia EV9 Overall Review",
+    "section": "",
+    "text": "The Kia EV9 is a bold, all-electric three-row SUV with up to 304 miles of range, seating for 6 or 7, and loads of tech like a 30” digital cockpit, fast charging, and lounge-style seats. It’s quick, spacious, and packed with safety features—perfect for families who want futuristic style and everyday practicality."
+  },
+  {
+    "objectID": "specs-hyundai.html",
+    "href": "specs-hyundai.html",
+    "title": "Hyundai IONIQ 9 Specs",
+    "section": "",
+    "text": "Price: $64,600\nLease Price: ~$450/mo for 36 months\nTax Incentives: Qualifies for $13,000 of EV tax incentives"
+  },
+  {
+    "objectID": "specs-hyundai.html#exterior",
+    "href": "specs-hyundai.html#exterior",
+    "title": "Hyundai IONIQ 9 Specs",
     "section": "Exterior:",
-    "text": "Exterior:\nThe Kia EV9 features a bold, modern design with a boxy SUV shape and futuristic touches. Its standout front includes vertical LED headlights and a unique “Digital Tiger Face,” while sharp lines, flush door handles, and a tapered roofline give it a sleek, high-tech look. It is easily the best 7-seater EV on the market"
+    "text": "Exterior:\nThe IONIQ 9 exterior masterfully blends aerodynamic efficiency with design artistry. Its dynamic “boat‑tail” silhouette, signature pixel lighting, sculptural side accents, and clean, futuristic detailing make it a standout in the large‑SUV EV segment."
   },
   {
-    "objectID": "specs-kia.html#specs",
-    "href": "specs-kia.html#specs",
-    "title": "Kia Specs",
+    "objectID": "specs-hyundai.html#specs",
+    "href": "specs-hyundai.html#specs",
+    "title": "Hyundai IONIQ 9 Specs",
     "section": "Specs:",
-    "text": "Specs:\n\n0-60 and Horsepower: The Kia EV9 has a 0-60 of 6.0 seconds and 379 hp\nRange and Charging: The Kia EV9 has ~275 miles of range and is compatible with Tesla DC superchargers\nReliability: The Kia EV9 has been named 2024 North American Utility Vehicle of the Year and World Car of the Year, among others"
+    "text": "Specs:\n\n0-60 and Horsepower: The Hyundai IONIQ 9 has a 0-60 of 6.2 seconds and 303 hp\nRange and Charging: The IONIQ 9 has ~320 miles of range and is compatible with Tesla DC superchargers\nReliability: The Hyundai IONIQ 9 has won the Favorite Plug-in EV – Awarded by the Midwest Automotive Media Association. Best Seven-Seat EV – Crowned by Top Gear. Red Dot Award: Global Product Design 2025"
+  },
+  {
+    "objectID": "specs-mercedes.html",
+    "href": "specs-mercedes.html",
+    "title": "Mercedes EQB Specs",
+    "section": "",
+    "text": "Price: $66,520\nLease Price: ~$520/mo for 36 months\nTax Incentives: Qualifies for $7,500 of EV tax incentives"
+  },
+  {
+    "objectID": "specs-mercedes.html#exterior",
+    "href": "specs-mercedes.html#exterior",
+    "title": "Mercedes EQB Specs",
+    "section": "Exterior:",
+    "text": "Exterior:\nThe Mercedes‑EQB 350 4MATIC has a boxy, modern look with smooth lines and a strong SUV shape. The front features a closed-off grille, sleek LED headlights, and a light bar that gives it a high-tech feel. From the side, it has a sporty profile with bold wheels and a smooth roofline. At the back, the light bar continues across the rear, adding to its stylish and futuristic design."
+  },
+  {
+    "objectID": "specs-mercedes.html#specs",
+    "href": "specs-mercedes.html#specs",
+    "title": "Mercedes EQB Specs",
+    "section": "Specs:",
+    "text": "Specs:\n\n0-60 and Horsepower: The Mercedes EQB 350 4MATIC SUV has a 0-60 of 5.8 seconds and 288 hp\nRange and Charging: Has ~207 miles of range and is compatible with Tesla DC superchargers\nReliability: The EQB has received positive feedback for its fit and finish, and the 2025 model has no reported recalls from the NHTSA"
+  },
+  {
+    "objectID": "updates-2026-kia.html",
+    "href": "updates-2026-kia.html",
+    "title": "Speculated Updates for the 2026-2027 production year",
+    "section": "",
+    "text": "Kia EV9: It is expected to have slight upgrades to range, steering response, and acceleration, but nothing major."
   }
 ]
