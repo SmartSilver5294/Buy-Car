@@ -13,3 +13,6 @@ format: html
 
 **4.** Has 10 Airbags, Blind-Spot View Monitor, Highway Driving Assist 2, Navigation-based Smart Cruise Control, Remote Smart Parking Assist, Collision-Avoidance Assist, Driver Attention Warning. It was the 2025 IIHS Top Safety Pick+.
 
+## Features:
+
+1. 

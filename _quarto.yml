@@ -18,6 +18,8 @@ website:
             text: EQB 350 Interior/Features
           - href: overall-mercedes.qmd
             text: Overall
+          - href: updates-2026-mercedes.qmd
+            text: Speculated Updates for 2026
       - text: Kia EV9
         menu:
           - href: specs-kia.qmd
@@ -26,6 +28,8 @@ website:
             text: EV9 Interior/Features
           - href: overall-kia.qmd
             text: Overall
+          - href: updates-2026-kia.qmd
+            text: Speculated Updates for 2026
       - text: Hyundai IONIQ 9
         menu: 
           - href: specs-hyundai.qmd
@@ -34,6 +38,8 @@ website:
             text: IONIQ 9 Interior/Features
           - href: overall-hyundai.qmd
             text: Overall
+          - href: updates-2026-hyundai.qmd
+            text: Speculated Updates for 2026
       - about.qmd
 
           
