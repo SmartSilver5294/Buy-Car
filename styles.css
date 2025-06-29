@@ -1,41 +1,104 @@
 /* css styles */
- 
+
+/* ====== Page Load Animation ====== */
+body {
+  opacity: 0;
+  animation: fadeIn 1s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+/* ====== Navbar Slide-In Animation ====== */
+.navbar {
+  transform: translateY(-100%);
+  opacity: 0;
+  animation: slideDown 0.8s ease-out 0.5s forwards;
+}
+
+@keyframes slideDown {
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
 
 body {
-  background-color: #c5d8eab1;
-  color: #000000;
-  font-family: 'Segoe UI', sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Poppins Bold', sans-serif;
 }
 
 .navbar {
-  background-color: #84b2f1;
-  color: #000000;
+  background-color:#003f7d;
+  color: #ffffff;
   border-bottom: 2px solid #ddd;
 }
 
 
 .navbar a {
-  color:rgb(0, 0, 0) !important;
+  background-color:#003f7d;
+  color:rgb(255, 255, 255) !important;
   font-weight: 500;
 }
 
-h1, h2 {
-  color:rgb(0, 0, 0);
+.dropdown-menu {
+  background-color: #0077cc; /* match your navbar */
+  border: none;
+  box-shadow: none;
+}
+
+.dropdown-menu a:hover {
+  background-color: transparent;
+  font-style: italic;
 }
 
 
-.carousel {
+
+h1, h2 {
+  color:rgb(250, 250, 250);
+}
+
+.heading {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  color:rgb(255, 255, 255);
+}
+
+.navbar a:hover {
+  color: #00bcd4 !important;
+}
+
+
+.carousel-window {
   overflow: hidden;
   max-width: 900px;
   margin: 2rem auto;
-  border-radius: 12px;
+  border-radius: 1rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  align-items: center;
+  background: #003f7d;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
 }
 
-.carousel-track {
-  display: flex;
-  width: max-content;
-  animation: scroll 20s linear infinite;
+/* Animate the image row instead of the container */
+.carousel-window::before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
+  background: linear-gradient(to right, #003f7d 0%, transparent 15%, transparent 90%, #003f7d 100%);
 }
 
 .carousel-image {
@@ -45,9 +108,11 @@ h1, h2 {
   object-fit: cover;
   max-height: 400px;
   margin-right: 1rem;
+  border-radius: 1rem;
+  animation: scroll 2s linear infinite alternate;
 }
 
 @keyframes scroll {
   0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  100% { transform: translateX(calc(-100% + 800px)); }
 }

@@ -53,28 +53,28 @@
     "href": "index.html",
     "title": "Car Shopping",
     "section": "",
-    "text": "&lt;img src=\"images/lucid-air.jpg\" alt=\"Lucid Air\" class=\"carousel-image\"&gt;\n&lt;img src=\"images/lucid-air.jpg\" alt=\"Lucid Air\" class=\"carousel-image\"&gt;\n&lt;img src=\"images/lucid-air.jpg\" alt=\"Lucid Air\" class=\"carousel-image\"&gt;\n&lt;img src=\"images/lucid-air.jpg\" alt=\"Lucid Air\" class=\"carousel-image\"&gt;"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Comparison/Rankings",
-    "section": "",
-    "text": "This is a comparison/ranking"
+    "text": "Link to Slideshow: https://docs.google.com/presentation/d/1jvlR61SVcH4eUqlgMXgFS6Jlc96sm2GNQjcybW0Dge0/edit?slide=id.p#slide=id.p"
   },
   {
     "objectID": "about.html#my-rankings-best-for-our-purposes",
     "href": "about.html#my-rankings-best-for-our-purposes",
     "title": "Comparison/Rankings",
     "section": "My rankings (Best for our purposes):",
-    "text": "My rankings (Best for our purposes):\n\nKIA EV9 (Best performance and space with decent luxury and premium charging capabilities)\nMercedes EQB 350 4MATIC SUV (Brand name, luxury, and premium features)\nHyundai IONIQ 9 (Longest range, wheelbase, and fast-charging)"
+    "text": "My rankings (Best for our purposes):\n\nKIA EV9: (Best performance and space with decent luxury and premium charging capabilities)\nMercedes EQB 350 4MATIC SUV: (Brand name, luxury, and premium features)\nHyundai IONIQ 9: (Longest range, wheelbase, and fast-charging)"
   },
   {
     "objectID": "about.html#consumer-rankings",
     "href": "about.html#consumer-rankings",
     "title": "Comparison/Rankings",
     "section": "Consumer rankings:",
-    "text": "Consumer rankings:\n\nKIA EV9 (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)\nHyundai IONIQ 9 (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)\nMercedes EQB 350 4MATIC SUV (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)"
+    "text": "Consumer rankings:\n\nKia EV9: (Best blend of performance (up to 379 hp), range (up to 304 miles), ultra-fast charging (350 kW), and futuristic design. It also offers a spacious interior, advanced tech like AutoMode (hands-free driving), and a strong value proposition)\nHyundai IONIQ 9: (Shares the same platform as the EV9 but leans more into luxury and comfort. It offers a longer range (up to 335 miles), massage seats, a quieter ride, and a more refined interior. Slightly less performance-focused than the EV9 but more upscale)\nMercedes EQB 350 4MATIC SUV: (While it brings Mercedes-Benz luxury and solid build quality, it falls short on range (around 250 miles), charging speed (100 kW max), and interior space compared to the other two. It’s also the smallest and least powerful of the bunch)"
+  },
+  {
+    "objectID": "about.html#speculated-updates-and-rankings-after-updates-subject-to-change",
+    "href": "about.html#speculated-updates-and-rankings-after-updates-subject-to-change",
+    "title": "Comparison/Rankings",
+    "section": "Speculated Updates and Rankings after Updates (Subject to change)",
+    "text": "Speculated Updates and Rankings after Updates (Subject to change)\n\nMercedes EQB 350 4MATIC SUV: Renamed to the GLB Electric, it is expected to have an new MBUX superscreen and AI powered user assistant, MB.OS (Mercedes-Benz Operating System), a new range of 305 miles, a frunk, much faster 320 volt charging, and retractable door handles. These changes will bring the Mercedes all the way to the top of the list.\nKia EV9: is expected to have slight upgrades to range, steering response, and acceleration, but nothing major.\nHyundai IONIQ 9: No speculated updates for now"
   },
   {
     "objectID": "html-test.html",
