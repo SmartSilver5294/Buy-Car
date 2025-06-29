@@ -15,4 +15,14 @@ format: html
 
 ## Features:
 
-1. 
+**1.** Panoramic Sunroof: The Mercedes comes with a full panoramic sunroof
+
+**2.** MBUX: The Mercedes EQB 350 comes with a hands-free user assistant, the Mercedes-Benz User Experience (MBUX)
+
+**3.** Hands-free Tailgate: The EQB 350 can open its trunk without you touching it or swinging your leg, just have your keys
+
+**4.** Noise Dampening: The Mercedes EQB 350 has one of the quietest cabins for a cheaper, mid-sized EV
+
+**5.** Active Suspension: The Mercedes EQB 350 has a very smooth ride thanks to its active damping and suspension
+
+**6.** Mercedes App: You can use the Mercedes App for a hands-free key, climate control, and remote start from outside the car
