@@ -13,6 +13,11 @@ format: html
 
 **4.** Has 10 Airbags, Blind-Spot View Monitor, Highway Driving Assist 2, Navigation-based Smart Cruise Control, Remote Smart Parking Assist, Collision-Avoidance Assist, Driver Attention Warning. It was the 2025 IIHS Top Safety Pick+.
 
+<section class="car-section">
+  <img src="images/hyundai-ioniq-9-interior.jpg" alt="Hyundai IONIQ 9" class="car-photo">
+  <p>The Hyundai IONIQ 9 is spacious and luxurious with ambient lighting, hi-tech, and eco materials to enhance experiences.</p>
+</section>
+
 ## Features:
 
 **1.** Panoramic Sunroof: The Hyundai IONIQ 9 comes with a full panoramic sunroof

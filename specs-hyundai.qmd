@@ -12,10 +12,15 @@ format: html
 ## Exterior:
 The IONIQ 9 exterior masterfully blends aerodynamic efficiency with design artistry. Its dynamic “boat‑tail” silhouette, signature pixel lighting, sculptural side accents, and clean, futuristic detailing make it a standout in the large‑SUV EV segment.
 
+<section class="car-section">
+  <img src="images/ioniq-9.jpg" alt="Hyundai IONIQ 9 electric SUV" class="car-photo">
+  <p>The IONIQ 9 is Hyundai’s flagship EV — combining luxury, range, and futuristic design.</p>
+</section>
+
 ## Specs:
 
 **1.** 0-60 and Horsepower: The Hyundai IONIQ 9 has a 0-60 of 6.2 seconds and 303 hp
 
 **2.** Range and Charging: The IONIQ 9 has ~320 miles of range and is compatible with Tesla DC superchargers
-
+ 
 **3.** Reliability: The Hyundai IONIQ 9 has won the Favorite Plug-in EV – Awarded by the Midwest Automotive Media Association. Best Seven-Seat EV – Crowned by Top Gear.  Red Dot Award: Global Product Design 2025 

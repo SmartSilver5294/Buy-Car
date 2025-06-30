@@ -10,7 +10,12 @@ format: html
 **Tax Incentives**: Qualifies for $7,500 of EV tax incentives and a few other incentives from KIA
 
 ## Exterior:
-The Kia EV9 features a bold, modern design with a boxy SUV shape and futuristic touches. Its standout front includes vertical LED headlights and a unique "Digital Tiger Face," while sharp lines, flush door handles, and a tapered roofline give it a sleek, high-tech look. It is easily the best 7-seater EV on the market
+The Kia EV9 features a bold, modern design with a boxy SUV shape and futuristic touches. Its standout front includes vertical LED headlights and a unique "Digital Tiger Face," while sharp lines, flush door handles, and a tapered roofline give it a sleek, high-tech look. It is easily the best 7-seater EV on the market.
+
+<section class="car-section">
+  <img src="images/kia-ev9.jpg" alt="Kia EV9 futuristic SUV" class="car-photo">
+  <p>The Kia EV9 is a spacious, tech-forward SUV with bold styling and impressive range.</p>
+</section>
 
 ## Specs:
 

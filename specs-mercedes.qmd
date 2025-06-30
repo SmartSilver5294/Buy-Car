@@ -12,6 +12,12 @@ format: html
 ## Exterior:
 The Mercedes‑EQB 350 4MATIC has a boxy, modern look with smooth lines and a strong SUV shape. The front features a closed-off grille, sleek LED headlights, and a light bar that gives it a high-tech feel. From the side, it has a sporty profile with bold wheels and a smooth roofline. At the back, the light bar continues across the rear, adding to its stylish and futuristic design.
 
+<section class="car-section">
+  <img src="images/mercedes-eqb.jpg" alt="Mercedes EQB on city street" class="car-photo">
+  <p>The Mercedes EQB blends luxury and utility with a fully electric drivetrain and 7-seat flexibility.</p>
+</section>
+
+
 ## Specs:
 
 **1.** 0-60 and Horsepower: The Mercedes EQB 350 4MATIC SUV has a 0-60 of 5.8 seconds and 288 hp

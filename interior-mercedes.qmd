@@ -13,6 +13,11 @@ format: html
 
 **4.** Has auto emergency braking, Blind Spot & Exit Warning, Lane Assist Suite, Adaptive Cruise Control, Parking Systems, 7 Airbags, and 5‑star NHTSA and Euro NCAP ratings for safety
 
+<section class="car-section">
+  <img src="images/mercedes-eqb-interior.jpg" alt="Mercedes EQB 350 4MATIC SUV" class="car-photo">
+  <p>The Mercedes EQB 350 has a minimalist, tech-savvy interior with extra premium luxury for all purposes.</p>
+</section>
+
 ## Features:
 
 **1.** Panoramic Sunroof: The Mercedes comes with a full panoramic sunroof

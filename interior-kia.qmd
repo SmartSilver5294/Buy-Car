@@ -13,6 +13,11 @@ format: html
 
 **4.** Is 2025 IIHS Top Safety Pick+, and has 5‑star Euro NCAP and ANCAP 5‑star ratings. It was praised for it’s lane keeping technologies and blind spot/safe exit warning assists.
 
+<section class="car-section">
+  <img src="images/kia-ev9-interior.jpg" alt="Kia EV9" class="car-photo">
+  <p>The Kia EV9 comes with a lounge-like cabin excellent technology, room, and luxury all around.</p>
+</section>
+
 ## Features:
 
 **1.** Panoramic Sunroof: The Kia EV9 comes with a full panoramic sunroof

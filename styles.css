@@ -142,6 +142,24 @@ h1, h2 {
   animation: fadeIn 1s ease 0.5s forwards;
 }
 
+.car-section {
+  margin: 3rem auto;
+  max-width: 960px;
+  text-align: center;
+}
+
+.car-photo {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  margin: 1.5rem 0;
+  transition: transform 0.3s ease;
+}
+
+.car-photo:hover {
+  transform: scale(1.02);
+}
 
 
 
