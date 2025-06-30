@@ -1,9 +1,12 @@
 ---
-title: "Car Shopping"
+title: "EV Buying Guide"
 format:
   html:
     css: styles.css
 ---
+
+<h2 class="tagline">Drive the Future. Compare the Best.</h2>
+
 
 <div class="carousel-window">
 

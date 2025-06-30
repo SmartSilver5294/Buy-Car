@@ -2,7 +2,7 @@
 title: "Comparison/Rankings"
 ---
 
-### This is a comparison/ranking
+### This is a Comparison/Ranking Table
 
 
 <div class="comparison-table">

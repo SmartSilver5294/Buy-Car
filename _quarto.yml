@@ -5,7 +5,7 @@ resources:
   - images/lucid-air.jpg
 
 website:
-  title: "Car Shopping"
+  title: "EV Buying Guide"
   navbar:
     left:
       - href: index.qmd
